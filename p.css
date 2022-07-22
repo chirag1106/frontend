@@ -1,11 +1,12 @@
-.container {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-  }
-  
-  .button {
-    background-color: white;
-    width: 190px;
-    border: 1px solid red;
-  }
+ .bg{
+background-color: #1C8C8C
+ #84BF9E
+ #F2DC9B
+ #F27166
+ #082A40
+ #FBF8BE
+ #ee0979
+ #234E70
+ #4e54c8
+ #f5aed0
+ }
