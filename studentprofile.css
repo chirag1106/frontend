@@ -715,7 +715,7 @@ hr {
 }
 
 .form-control {
-  font-size: 1rem;
+  font-size: 2rem;
   line-height: 1.5;
   display: block;
   width: 100%;
@@ -812,7 +812,7 @@ textarea.form-control {
 }
 
 .btn {
-  font-size: 1rem;
+  font-size: 2rem;
   font-weight: 600;
   line-height: 1.5;
   display: inline-block;
@@ -962,7 +962,7 @@ textarea.form-control {
 }
 
 .btn-sm {
-  font-size: .875rem;
+  font-size: 1rem;
   line-height: 1.5;
   padding: .25rem .5rem;
   border-radius: .375rem;
@@ -1494,7 +1494,7 @@ a.text-white:focus {
 }
 
 .avatar {
-  font-size: 1rem;
+  font-size: 1.5rem;
   display: inline-flex;
   width: 48px;
   height: 48px;
@@ -1511,13 +1511,13 @@ a.text-white:focus {
 }
 
 .avatar-sm {
-  font-size: .875rem;
+  font-size: 1.5rem;
   width: 36px;
   height: 36px;
 }
 
 .btn {
-  font-size: .875rem;
+  font-size: 1.5rem;
   position: relative;
   transition: all .15s ease;
   letter-spacing: .025em;
@@ -1548,7 +1548,7 @@ a.text-white:focus {
 }
 
 .btn-sm {
-  font-size: .75rem;
+  font-size: 1rem;
 }
 
 [class*='btn-outline-'] {
@@ -1593,7 +1593,7 @@ a.text-white:focus {
 }
 
 .card-profile-stats>div .description {
-  font-size: .875rem;
+  font-size: 1rem;
   color: #adb5bd;
 }
 

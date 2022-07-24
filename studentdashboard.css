@@ -387,3 +387,15 @@ ul.icon_buttons{
             .event-list .card-text{color: #ffffff;font-weight: 700;font-size: 16px}
             .event-list .card-body{padding: 0 20px;margin: 0 0 10px 0}
             .event-list .card-title svg{color: #ffffff}
+            
+            .container1{
+              background-color: #4e54c8;
+              color:#F2DC9B;
+              font-weight: 500;
+              font-size: larger;
+              text-align: center;
+
+            }
+            .ul{
+              overflow: hidden;
+            }
